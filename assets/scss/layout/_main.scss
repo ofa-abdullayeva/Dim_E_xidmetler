@@ -106,8 +106,9 @@ main{
      
         .post-description{
             p{
-                font-size: 16px;
+                font-size: 14px;
                 padding: 20px 0;
+                line-height: 15px;
             }
         }
 
@@ -138,7 +139,7 @@ main{
         left: 0;
     }
 
-    @media (min-width: 320px) and (max-width: 800px) {
+    @media (min-width: 300px) and (max-width: 800px) {
        
         .information{
             .post-description{
@@ -151,7 +152,7 @@ main{
             .services{
                 
                 h2{
-                    font-size: 18px;
+                    font-size: 17px;
                 }
                 h5{
                     a{
