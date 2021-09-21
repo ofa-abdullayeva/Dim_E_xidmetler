@@ -18,12 +18,18 @@ header {
 		h3{
 			
 			a{
-				font-size: 26px;
+				font-size: 23px;
 				font-weight: 700;
 				color: $primary-color;
 				transition: all .5s ease-in;	
 			}
 			
+		}
+		figure{
+			width: 150px;
+			img{
+				
+			}
 		}
 	}
 
@@ -35,7 +41,7 @@ header {
 			align-items: center;
 			margin-bottom: 0;
 			li{
-				padding: 15px;
+				padding: 8px;
 				transition:  all .5s ease-in;
 				border-radius: 5px;
 				
